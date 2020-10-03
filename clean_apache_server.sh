@@ -1,7 +1,5 @@
 #!/bin/bash
 #!/bin/bash
-# scripts bash imprescindibles de un sysadmin linux
-#
 echo "<---------------------------------------------------------->"
 echo "<---------------------------------------------------------->"
 echo "Comprobando estado de memoria"
