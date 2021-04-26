@@ -1,5 +1,5 @@
 #!/bin/bash
-###
+####
 # Guardar en /bin/ftpbackup.sh y hacer ejecutable
 # chmod +x /bin/ftpbackup.sh
 ## Your System Settings ##
